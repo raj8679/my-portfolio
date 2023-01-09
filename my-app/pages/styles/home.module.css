@@ -1,0 +1,8 @@
+.Container{
+    border: 2px solid green;
+    width: 90vw;
+    height:80vh;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 139, 0.411);
+}

@@ -1,0 +1,21 @@
+.container{
+    width: 100vw;
+    border: 2px solid red;
+    height: 7vh;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: dimgrey;
+}
+.left_menu{
+    margin-left: 30px;
+    cursor: pointer;
+}
+ .right_menu{
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    cursor: pointer;
+ }
